@@ -17,3 +17,7 @@ body{
 ul{
   list-style: none;
 }
+
+img{
+  max-width: 90%;
+}

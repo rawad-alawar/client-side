@@ -13,3 +13,7 @@ body{
   vertical-align: middle;
   text-align: center;
 }
+
+ul{
+  list-style: none;
+}
